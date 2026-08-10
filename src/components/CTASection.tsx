@@ -3,7 +3,7 @@ import { useRef } from "react";
 import { ArrowRight, Sparkles } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
-const BOOKING_URL = "https://www.myuhandisitutors.co.za/";
+const BOOKING_URL = "https://book.myuhandisitutors.co.za/";
 
 const CTASection = () => {
   const ref = useRef(null);

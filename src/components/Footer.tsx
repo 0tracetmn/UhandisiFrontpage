@@ -1,6 +1,6 @@
 import { Mail, Phone, MapPin } from "lucide-react";
 
-const BOOKING_URL = "https://www.myuhandisitutors.co.za/";
+const BOOKING_URL = "https://book.myuhandisitutors.co.za/";
 
 const Footer = () => {
   const scrollTo = (href: string) => {

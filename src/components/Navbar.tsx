@@ -12,7 +12,7 @@ const navLinks = [
   { label: "Contact", href: "#contact" },
 ];
 
-const BOOKING_URL = "https://www.myuhandisitutors.co.za/";
+const BOOKING_URL = "https://book.myuhandisitutors.co.za/";
 
 const Navbar = () => {
   const [isScrolled, setIsScrolled] = useState(false);

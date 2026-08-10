@@ -3,7 +3,7 @@ import { ArrowRight, Star, Users, TrendingUp } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import heroImage from "@/assets/hero-students.jpg";
 
-const BOOKING_URL = "https://www.myuhandisitutors.co.za/";
+const BOOKING_URL = "https://book.myuhandisitutors.co.za/";
 
 const stats = [
   {
